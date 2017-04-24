@@ -1,2 +1,2 @@
 # beginningML
-machine learning..class
+1. machine learning..class
